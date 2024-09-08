@@ -1,0 +1,12 @@
+
+button{
+  cursor: pointer;
+}
+
+.cardImage{
+  width: 200%;
+  height: 100%;
+}
+.card:hover{
+  background-color: white;
+}
